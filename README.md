@@ -7,7 +7,8 @@ Integrantes: Pedro Díaz Herrera,
 
 Profesor: Sebastián Guajardo
 # INSTALACIÓN DE PAQUETES
-Necesarios para simular correctamente
+Necesarios para correcta simulacion
+
 
 sudo apt install ros-iron-gazebo-ros-pkgs
 
