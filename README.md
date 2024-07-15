@@ -9,7 +9,7 @@ Profesor: Sebastián Guajardo
 # INSTALACIÓN DE PAQUETES
 ### Necesarios para correcta simulacion:
 
-
+```
 sudo apt install ros-iron-gazebo-ros-pkgs
 
 sudo apt-get install gedit
@@ -31,3 +31,4 @@ sudo apt-get install ros-iron-gazebo-plugins
 sudo apt-get install ros-iron-ros-ign-bridge
 
 sudo apt-get install ros-iron-teleop-twist-keyboard
+```
