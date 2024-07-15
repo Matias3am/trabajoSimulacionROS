@@ -1,13 +1,13 @@
 # SIMULACION DE ROBOT DIFERENCIAL 4 RUEDAS CON ROS E INTEGRACIÓN SENSOR LIDAR
-Para asignatura: PROGRAMACIÓN DE ROBOTS CON ROS
+Para asignatura: *PROGRAMACIÓN DE ROBOTS CON ROS*
 
 Integrantes: Pedro Díaz Herrera,
              Matias Gonzalez Belmar,
-             Matias
+             Matias Marin
 
 Profesor: Sebastián Guajardo
 # INSTALACIÓN DE PAQUETES
-Necesarios para correcta simulacion:
+### Necesarios para correcta simulacion:
 
 
 sudo apt install ros-iron-gazebo-ros-pkgs
