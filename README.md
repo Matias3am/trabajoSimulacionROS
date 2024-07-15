@@ -1,10 +1,11 @@
-# SIMULACION DE ROBOT DIFERENCIAL 4 RUEDAS CON ROS
+# SIMULACION DE ROBOT DIFERENCIAL 4 RUEDAS CON ROS E INTEGRACIÓN SENSOR LIDAR
 Para asignatura: PROGRAMACIÓN DE ROBOTS CON ROS
 
 Integrantes: Pedro Díaz Herrera,
              Matias Gonzalez Belmar,
              Matias
 
+Profesor: Sebastián Guajardo
 # INSTALACIÓN DE PAQUETES
 Necesarios para simular correctamente
 
